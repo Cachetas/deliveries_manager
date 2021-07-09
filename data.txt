@@ -1,0 +1,565 @@
+
+
+* * * * * * * * * * * *
+* Entregas de Camião  *
+* * * * * * * * * * * *
+
+  Informação da Entrega
+_ _ _ _ _ _ _ _ _ _ _ _ _ _
+ -------------------------
+  Informação da Entrega: 
+  Identificador: 1; 
+  Ponto de recolha: Lisboa; 
+  Ponto de entrega: Rua Egas Moniz 12, Lisboa; 
+  Descriçao da Mercadoria: Batatas; 
+  Volume da mercadoria: 2000000cm3; 
+
+
+  Informação da Entrega
+_ _ _ _ _ _ _ _ _ _ _ _ _ _
+ -------------------------
+  Informação da Entrega: 
+  Identificador: 3; 
+  Ponto de recolha: Lisboa; 
+  Ponto de entrega: Av. D. Joao II 22, Lisboa; 
+  Descriçao da Mercadoria: Couves; 
+  Volume da mercadoria: 25000000cm3; 
+
+
+  Informação da Entrega
+_ _ _ _ _ _ _ _ _ _ _ _ _ _
+ -------------------------
+  Informação da Entrega: 
+  Identificador: 4; 
+  Ponto de recolha: Porto; 
+  Ponto de entrega: Av. Almirante Reis 188, Lisboa; 
+  Descriçao da Mercadoria: Alface; 
+  Volume da mercadoria: 3000000cm3; 
+
+
+  Informação da Entrega
+_ _ _ _ _ _ _ _ _ _ _ _ _ _
+ -------------------------
+  Informação da Entrega: 
+  Identificador: 5; 
+  Ponto de recolha: Lisboa; 
+  Ponto de entrega: Av. Morais Soares 33, Lisboa; 
+  Descriçao da Mercadoria: Arroz; 
+  Volume da mercadoria: 1500000cm3; 
+
+
+  Informação da Entrega
+_ _ _ _ _ _ _ _ _ _ _ _ _ _
+ -------------------------
+  Informação da Entrega: 
+  Identificador: 10; 
+  Ponto de recolha: Porto; 
+  Ponto de entrega: Rua Braamcamp 17, Lisboa; 
+  Descriçao da Mercadoria: Arroz; 
+  Volume da mercadoria: 2000000cm3; 
+
+
+  Informação da Entrega
+_ _ _ _ _ _ _ _ _ _ _ _ _ _
+ -------------------------
+  Informação da Entrega: 
+  Identificador: 19; 
+  Ponto de recolha: Lisboa; 
+  Ponto de entrega: Av. Almirante Reis 188, Lisboaa; 
+  Descriçao da Mercadoria: Vinho; 
+  Volume da mercadoria: 5000000cm3; 
+
+
+  Informação da Entrega
+_ _ _ _ _ _ _ _ _ _ _ _ _ _
+ -------------------------
+  Informação da Entrega: 
+  Identificador: 20; 
+  Ponto de recolha: Lisboa; 
+  Ponto de entrega: Av. Morais Soares 33, Lisboa; 
+  Descriçao da Mercadoria: Água; 
+  Volume da mercadoria: 25000000cm3; 
+
+
+  Informação da Entrega
+_ _ _ _ _ _ _ _ _ _ _ _ _ _
+ -------------------------
+  Informação da Entrega: 
+  Identificador: 1; 
+  Ponto de recolha: Lisboa; 
+  Ponto de entrega: Rua Egas Moniz 12, Lisboa; 
+  Descriçao da Mercadoria: Batatas; 
+  Volume da mercadoria: 2000000cm3; 
+
+
+  Informação da Entrega
+_ _ _ _ _ _ _ _ _ _ _ _ _ _
+ -------------------------
+  Informação da Entrega: 
+  Identificador: 3; 
+  Ponto de recolha: Lisboa; 
+  Ponto de entrega: Av. D. Joao II 22, Lisboa; 
+  Descriçao da Mercadoria: Couves; 
+  Volume da mercadoria: 25000000cm3; 
+
+
+  Informação da Entrega
+_ _ _ _ _ _ _ _ _ _ _ _ _ _
+ -------------------------
+  Informação da Entrega: 
+  Identificador: 4; 
+  Ponto de recolha: Porto; 
+  Ponto de entrega: Av. Almirante Reis 188, Lisboa; 
+  Descriçao da Mercadoria: Alface; 
+  Volume da mercadoria: 3000000cm3; 
+
+
+  Informação da Entrega
+_ _ _ _ _ _ _ _ _ _ _ _ _ _
+ -------------------------
+  Informação da Entrega: 
+  Identificador: 5; 
+  Ponto de recolha: Lisboa; 
+  Ponto de entrega: Av. Morais Soares 33, Lisboa; 
+  Descriçao da Mercadoria: Arroz; 
+  Volume da mercadoria: 1500000cm3; 
+
+
+  Informação da Entrega
+_ _ _ _ _ _ _ _ _ _ _ _ _ _
+ -------------------------
+  Informação da Entrega: 
+  Identificador: 10; 
+  Ponto de recolha: Porto; 
+  Ponto de entrega: Rua Braamcamp 17, Lisboa; 
+  Descriçao da Mercadoria: Arroz; 
+  Volume da mercadoria: 2000000cm3; 
+
+
+  Informação da Entrega
+_ _ _ _ _ _ _ _ _ _ _ _ _ _
+ -------------------------
+  Informação da Entrega: 
+  Identificador: 19; 
+  Ponto de recolha: Lisboa; 
+  Ponto de entrega: Av. Almirante Reis 188, Lisboaa; 
+  Descriçao da Mercadoria: Vinho; 
+  Volume da mercadoria: 5000000cm3; 
+
+
+  Informação da Entrega
+_ _ _ _ _ _ _ _ _ _ _ _ _ _
+ -------------------------
+  Informação da Entrega: 
+  Identificador: 20; 
+  Ponto de recolha: Lisboa; 
+  Ponto de entrega: Av. Morais Soares 33, Lisboa; 
+  Descriçao da Mercadoria: Água; 
+  Volume da mercadoria: 25000000cm3; 
+
+
+
+* * * * * * * * * * * * *
+* Entregas de Automovel *
+* * * * * * * * * * * * *
+
+  Informação da Entrega
+_ _ _ _ _ _ _ _ _ _ _ _ _ _
+ -------------------------
+  Informação da Entrega: 
+  Identificador: 2; 
+  Ponto de recolha: Lisboa; 
+  Ponto de entrega: Av. Morais Soares 33, Lisboa; 
+  Descriçao da Mercadoria: Cenouras; 
+  Volume da mercadoria: 1000000cm3; 
+
+
+  Informação da Entrega
+_ _ _ _ _ _ _ _ _ _ _ _ _ _
+ -------------------------
+  Informação da Entrega: 
+  Identificador: 6; 
+  Ponto de recolha: Porto; 
+  Ponto de entrega: Av. da Liberdade 320, Lisboa; 
+  Descriçao da Mercadoria: Água; 
+  Volume da mercadoria: 700000cm3; 
+
+
+  Informação da Entrega
+_ _ _ _ _ _ _ _ _ _ _ _ _ _
+ -------------------------
+  Informação da Entrega: 
+  Identificador: 7; 
+  Ponto de recolha: Lisboa; 
+  Ponto de entrega: Av. Fontes Pereira de Melo 57, Lisboa; 
+  Descriçao da Mercadoria: Vinho; 
+  Volume da mercadoria: 100000cm3; 
+
+
+  Informação da Entrega
+_ _ _ _ _ _ _ _ _ _ _ _ _ _
+ -------------------------
+  Informação da Entrega: 
+  Identificador: 9; 
+  Ponto de recolha: Lisboa; 
+  Ponto de entrega: Rua Filipe Folque 23, Lisboa; 
+  Descriçao da Mercadoria: Água; 
+  Volume da mercadoria: 1000000cm3; 
+
+
+  Informação da Entrega
+_ _ _ _ _ _ _ _ _ _ _ _ _ _
+ -------------------------
+  Informação da Entrega: 
+  Identificador: 11; 
+  Ponto de recolha: Porto; 
+  Ponto de entrega: Av. D. Joao II 22, Lisboa; 
+  Descriçao da Mercadoria: Arroz; 
+  Volume da mercadoria: 750000cm3; 
+
+
+  Informação da Entrega
+_ _ _ _ _ _ _ _ _ _ _ _ _ _
+ -------------------------
+  Informação da Entrega: 
+  Identificador: 16; 
+  Ponto de recolha: Porto; 
+  Ponto de entrega: Av. Morais Soares 33, Lisboa; 
+  Descriçao da Mercadoria: Arroz; 
+  Volume da mercadoria: 150000cm3; 
+
+
+  Informação da Entrega
+_ _ _ _ _ _ _ _ _ _ _ _ _ _
+ -------------------------
+  Informação da Entrega: 
+  Identificador: 17; 
+  Ponto de recolha: Lisboa; 
+  Ponto de entrega: Rua Castilho 230, Lisboa; 
+  Descriçao da Mercadoria: Cenouras; 
+  Volume da mercadoria: 200000cm3; 
+
+
+  Informação da Entrega
+_ _ _ _ _ _ _ _ _ _ _ _ _ _
+ -------------------------
+  Informação da Entrega: 
+  Identificador: 18; 
+  Ponto de recolha: Porto; 
+  Ponto de entrega: Rua Filipe Folque 23, Lisboa; 
+  Descriçao da Mercadoria: Couves; 
+  Volume da mercadoria: 300000cm3; 
+
+
+  Informação da Entrega
+_ _ _ _ _ _ _ _ _ _ _ _ _ _
+ -------------------------
+  Informação da Entrega: 
+  Identificador: 21; 
+  Ponto de recolha: Lisboa; 
+  Ponto de entrega: Av. Fontes Pereira de Melo 57, Lisboa; 
+  Descriçao da Mercadoria: Vinho; 
+  Volume da mercadoria: 900000cm3; 
+
+
+  Informação da Entrega
+_ _ _ _ _ _ _ _ _ _ _ _ _ _
+ -------------------------
+  Informação da Entrega: 
+  Identificador: 22; 
+  Ponto de recolha: Porto; 
+  Ponto de entrega: Av. D. Joao II 22, Lisboa; 
+  Descriçao da Mercadoria: Água; 
+  Volume da mercadoria: 450000cm3; 
+
+
+  Informação da Entrega
+_ _ _ _ _ _ _ _ _ _ _ _ _ _
+ -------------------------
+  Informação da Entrega: 
+  Identificador: 25; 
+  Ponto de recolha: Porto; 
+  Ponto de entrega: Rua Filipe Folque 23, Lisboa; 
+  Descriçao da Mercadoria: Batatas; 
+  Volume da mercadoria: 95000cm3; 
+
+
+  Informação da Entrega
+_ _ _ _ _ _ _ _ _ _ _ _ _ _
+ -------------------------
+  Informação da Entrega: 
+  Identificador: 2; 
+  Ponto de recolha: Lisboa; 
+  Ponto de entrega: Av. Morais Soares 33, Lisboa; 
+  Descriçao da Mercadoria: Cenouras; 
+  Volume da mercadoria: 1000000cm3; 
+
+
+  Informação da Entrega
+_ _ _ _ _ _ _ _ _ _ _ _ _ _
+ -------------------------
+  Informação da Entrega: 
+  Identificador: 6; 
+  Ponto de recolha: Porto; 
+  Ponto de entrega: Av. da Liberdade 320, Lisboa; 
+  Descriçao da Mercadoria: Água; 
+  Volume da mercadoria: 700000cm3; 
+
+
+  Informação da Entrega
+_ _ _ _ _ _ _ _ _ _ _ _ _ _
+ -------------------------
+  Informação da Entrega: 
+  Identificador: 7; 
+  Ponto de recolha: Lisboa; 
+  Ponto de entrega: Av. Fontes Pereira de Melo 57, Lisboa; 
+  Descriçao da Mercadoria: Vinho; 
+  Volume da mercadoria: 100000cm3; 
+
+
+  Informação da Entrega
+_ _ _ _ _ _ _ _ _ _ _ _ _ _
+ -------------------------
+  Informação da Entrega: 
+  Identificador: 9; 
+  Ponto de recolha: Lisboa; 
+  Ponto de entrega: Rua Filipe Folque 23, Lisboa; 
+  Descriçao da Mercadoria: Água; 
+  Volume da mercadoria: 1000000cm3; 
+
+
+  Informação da Entrega
+_ _ _ _ _ _ _ _ _ _ _ _ _ _
+ -------------------------
+  Informação da Entrega: 
+  Identificador: 11; 
+  Ponto de recolha: Porto; 
+  Ponto de entrega: Av. D. Joao II 22, Lisboa; 
+  Descriçao da Mercadoria: Arroz; 
+  Volume da mercadoria: 750000cm3; 
+
+
+  Informação da Entrega
+_ _ _ _ _ _ _ _ _ _ _ _ _ _
+ -------------------------
+  Informação da Entrega: 
+  Identificador: 16; 
+  Ponto de recolha: Porto; 
+  Ponto de entrega: Av. Morais Soares 33, Lisboa; 
+  Descriçao da Mercadoria: Arroz; 
+  Volume da mercadoria: 150000cm3; 
+
+
+  Informação da Entrega
+_ _ _ _ _ _ _ _ _ _ _ _ _ _
+ -------------------------
+  Informação da Entrega: 
+  Identificador: 17; 
+  Ponto de recolha: Lisboa; 
+  Ponto de entrega: Rua Castilho 230, Lisboa; 
+  Descriçao da Mercadoria: Cenouras; 
+  Volume da mercadoria: 200000cm3; 
+
+
+  Informação da Entrega
+_ _ _ _ _ _ _ _ _ _ _ _ _ _
+ -------------------------
+  Informação da Entrega: 
+  Identificador: 18; 
+  Ponto de recolha: Porto; 
+  Ponto de entrega: Rua Filipe Folque 23, Lisboa; 
+  Descriçao da Mercadoria: Couves; 
+  Volume da mercadoria: 300000cm3; 
+
+
+  Informação da Entrega
+_ _ _ _ _ _ _ _ _ _ _ _ _ _
+ -------------------------
+  Informação da Entrega: 
+  Identificador: 21; 
+  Ponto de recolha: Lisboa; 
+  Ponto de entrega: Av. Fontes Pereira de Melo 57, Lisboa; 
+  Descriçao da Mercadoria: Vinho; 
+  Volume da mercadoria: 900000cm3; 
+
+
+  Informação da Entrega
+_ _ _ _ _ _ _ _ _ _ _ _ _ _
+ -------------------------
+  Informação da Entrega: 
+  Identificador: 22; 
+  Ponto de recolha: Porto; 
+  Ponto de entrega: Av. D. Joao II 22, Lisboa; 
+  Descriçao da Mercadoria: Água; 
+  Volume da mercadoria: 450000cm3; 
+
+
+  Informação da Entrega
+_ _ _ _ _ _ _ _ _ _ _ _ _ _
+ -------------------------
+  Informação da Entrega: 
+  Identificador: 25; 
+  Ponto de recolha: Porto; 
+  Ponto de entrega: Rua Filipe Folque 23, Lisboa; 
+  Descriçao da Mercadoria: Batatas; 
+  Volume da mercadoria: 95000cm3; 
+
+
+
+* * * * * * * * * * *
+* Entregas de Mota  *
+* * * * * * * * * * *
+
+  Informação da Entrega
+_ _ _ _ _ _ _ _ _ _ _ _ _ _
+ -------------------------
+  Informação da Entrega: 
+  Identificador: 8; 
+  Ponto de recolha: Porto; 
+  Ponto de entrega: Av. D. Joao II 22, Lisboa; 
+  Descriçao da Mercadoria: Cenouras; 
+  Volume da mercadoria: 50000cm3; 
+
+
+  Informação da Entrega
+_ _ _ _ _ _ _ _ _ _ _ _ _ _
+ -------------------------
+  Informação da Entrega: 
+  Identificador: 12; 
+  Ponto de recolha: Porto; 
+  Ponto de entrega: Rua Braamcamp 17, Lisboa; 
+  Descriçao da Mercadoria: Vinho; 
+  Volume da mercadoria: 70000cm3; 
+
+
+  Informação da Entrega
+_ _ _ _ _ _ _ _ _ _ _ _ _ _
+ -------------------------
+  Informação da Entrega: 
+  Identificador: 13; 
+  Ponto de recolha: Lisboa; 
+  Ponto de entrega: Rua Egas Moniz 12, Lisboa; 
+  Descriçao da Mercadoria: Cenouras; 
+  Volume da mercadoria: 50000cm3; 
+
+
+  Informação da Entrega
+_ _ _ _ _ _ _ _ _ _ _ _ _ _
+ -------------------------
+  Informação da Entrega: 
+  Identificador: 14; 
+  Ponto de recolha: Porto; 
+  Ponto de entrega: Av. da Liberdade 320, Lisboa; 
+  Descriçao da Mercadoria: Vinho; 
+  Volume da mercadoria: 25000cm3; 
+
+
+  Informação da Entrega
+_ _ _ _ _ _ _ _ _ _ _ _ _ _
+ -------------------------
+  Informação da Entrega: 
+  Identificador: 15; 
+  Ponto de recolha: Lisboa; 
+  Ponto de entrega: Av. D. Joao II 22, Lisboa; 
+  Descriçao da Mercadoria: Água; 
+  Volume da mercadoria: 25000cm3; 
+
+
+  Informação da Entrega
+_ _ _ _ _ _ _ _ _ _ _ _ _ _
+ -------------------------
+  Informação da Entrega: 
+  Identificador: 23; 
+  Ponto de recolha: Lisboa; 
+  Ponto de entrega: Rua Castilho 230, Lisboa; 
+  Descriçao da Mercadoria: Cenouras; 
+  Volume da mercadoria: 75000cm3; 
+
+
+  Informação da Entrega
+_ _ _ _ _ _ _ _ _ _ _ _ _ _
+ -------------------------
+  Informação da Entrega: 
+  Identificador: 24; 
+  Ponto de recolha: Porto; 
+  Ponto de entrega: Av. Almirante Reis 188, Lisboa; 
+  Descriçao da Mercadoria: Couves; 
+  Volume da mercadoria: 30000cm3; 
+
+
+  Informação da Entrega
+_ _ _ _ _ _ _ _ _ _ _ _ _ _
+ -------------------------
+  Informação da Entrega: 
+  Identificador: 8; 
+  Ponto de recolha: Porto; 
+  Ponto de entrega: Av. D. Joao II 22, Lisboa; 
+  Descriçao da Mercadoria: Cenouras; 
+  Volume da mercadoria: 50000cm3; 
+
+
+  Informação da Entrega
+_ _ _ _ _ _ _ _ _ _ _ _ _ _
+ -------------------------
+  Informação da Entrega: 
+  Identificador: 12; 
+  Ponto de recolha: Porto; 
+  Ponto de entrega: Rua Braamcamp 17, Lisboa; 
+  Descriçao da Mercadoria: Vinho; 
+  Volume da mercadoria: 70000cm3; 
+
+
+  Informação da Entrega
+_ _ _ _ _ _ _ _ _ _ _ _ _ _
+ -------------------------
+  Informação da Entrega: 
+  Identificador: 13; 
+  Ponto de recolha: Lisboa; 
+  Ponto de entrega: Rua Egas Moniz 12, Lisboa; 
+  Descriçao da Mercadoria: Cenouras; 
+  Volume da mercadoria: 50000cm3; 
+
+
+  Informação da Entrega
+_ _ _ _ _ _ _ _ _ _ _ _ _ _
+ -------------------------
+  Informação da Entrega: 
+  Identificador: 14; 
+  Ponto de recolha: Porto; 
+  Ponto de entrega: Av. da Liberdade 320, Lisboa; 
+  Descriçao da Mercadoria: Vinho; 
+  Volume da mercadoria: 25000cm3; 
+
+
+  Informação da Entrega
+_ _ _ _ _ _ _ _ _ _ _ _ _ _
+ -------------------------
+  Informação da Entrega: 
+  Identificador: 15; 
+  Ponto de recolha: Lisboa; 
+  Ponto de entrega: Av. D. Joao II 22, Lisboa; 
+  Descriçao da Mercadoria: Água; 
+  Volume da mercadoria: 25000cm3; 
+
+
+  Informação da Entrega
+_ _ _ _ _ _ _ _ _ _ _ _ _ _
+ -------------------------
+  Informação da Entrega: 
+  Identificador: 23; 
+  Ponto de recolha: Lisboa; 
+  Ponto de entrega: Rua Castilho 230, Lisboa; 
+  Descriçao da Mercadoria: Cenouras; 
+  Volume da mercadoria: 75000cm3; 
+
+
+  Informação da Entrega
+_ _ _ _ _ _ _ _ _ _ _ _ _ _
+ -------------------------
+  Informação da Entrega: 
+  Identificador: 24; 
+  Ponto de recolha: Porto; 
+  Ponto de entrega: Av. Almirante Reis 188, Lisboa; 
+  Descriçao da Mercadoria: Couves; 
+  Volume da mercadoria: 30000cm3; 
+
